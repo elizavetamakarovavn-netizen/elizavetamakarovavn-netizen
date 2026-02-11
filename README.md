@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there - I'm Elizaveta Makarova👋
 
-<!--
-**elizavetamakarovavn-netizen/elizavetamakarovavn-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a QA Engineer
 
-Here are some ideas to get you started:
+I am a QA Engineer focused on test automation, with a strong interest in working with requirements, logic analysis, and systematic defect detection.
+Before moving into QA, I worked as a technical documentation quality controller on large industrial projects, which developed my structured thinking, attention to detail, and ability to analyze complex specifications.
+This background helps me design thorough and well-structured tests. I chose Java as my primary automation language due to its wide adoption in commercial development and its mature testing ecosystem.
+My goal is to grow as a QA Automation Engineer and contribute to building stable and maintainable test solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technologies & Tools
+
+## Programming Languages
+Java
+## Test Automation
+ - Selenium WebDriver
+ - REST Assured
+ - JUnit
+ - Mockito
+## Testing Types
+ - UI testing
+ - API testing
+ - Unit testing
+ - UI layout and visual testing
+## Test Design & Analysis
+ - Test case design
+ - Checklists
+ - Equivalence partitioning
+ - Boundary value analysis
+## Build & Reporting
+ - Maven
+ - Allure
+ - JaCoCo
+## Tools
+ - Postman
+ - GitHub
+
